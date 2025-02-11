@@ -1,4 +1,4 @@
-# Restaurant-management-software-
+# Restaurant management software
 
 A project made for completing the course Introduction to programming - practicum at FMI, Sofia University.
 
